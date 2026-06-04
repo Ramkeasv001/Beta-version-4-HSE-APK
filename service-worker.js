@@ -1,6 +1,6 @@
 /* HSE Audit Workspace - service worker
    Caches the app shell so it opens even with no connection. */
-const CACHE = 'hse-audit-v1';
+const CACHE = 'hse-audit-v3';
 const CORE = [
   './',
   './index.html',
